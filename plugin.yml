@@ -1,0 +1,7 @@
+---
+name: IsEvenAPI
+version: 0.0.1
+main: SexMC\IsEvenAPI\Loader
+api: 5.24.0
+src-namespace-prefix: SexMC\IsEvenAPI
+...
