@@ -1,6 +1,6 @@
 # IsEvenAPI
 
-The **IsEvenAPI** is the most advanced and fastest `isEven` method available in the PocketMine-MP space. With an optimized index of **90,000** even and odd numbers, this plugin allows for ultra-fast even-number checking, ensuring minimal performance impact.
+The **IsEvenAPI** is the most advanced and fastest `isEven` method available in the PocketMine-MP space. With an optimized index of **696,969** even and odd numbers, this plugin allows for ultra-fast even-number checking, ensuring minimal performance impact.
 
 ## Features
 - **Blazing Fast:** Uses pre-indexed even and odd numbers for instant lookup.
